@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://admin:07eleven@drop-token-tisdx.mongodb.net/test?retryWrites=true&w=majority"
+}
